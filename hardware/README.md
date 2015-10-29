@@ -15,7 +15,7 @@ USB  --- serial debug data (waveform and spectrum)
 UART --- output for serial display board (not detailed here and not used in the original demo)
 
 INPUT
-PA0	 --- ADC input (shared with the joystick centre button)
+PA0	 --- ADC input from amplifier (shared with the joystick centre button)
 ```
 
 
